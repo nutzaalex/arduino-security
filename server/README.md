@@ -1,4 +1,4 @@
-### Node server for Arduino security app
+### Node server for Arduino app
 
 ## Quick Start
 

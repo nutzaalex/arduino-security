@@ -8,13 +8,17 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Alexandru Nuta",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.3"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "firebase": "^5.4.2",
+    "node-arp": "^1.0.6",
+    "nexmo": "^2.3.2",
+    "moment": "^2.22.2"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.18.4"
   }
 }
