@@ -13,12 +13,12 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "firebase": "^5.11.1-0",
+    "firebase": "^7.21.0",
     "node-arp": "^1.0.6",
-    "nexmo": "^2.4.1",
-    "moment": "^2.24.0"
+    "nexmo": "^2.9.1",
+    "moment": "^2.28.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "^2.0.4"
   }
 }
