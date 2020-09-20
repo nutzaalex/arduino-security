@@ -1,8 +1,8 @@
-### Important note: fixed a few security vulnerabilities, the features might not all work due to breaking changes and need to be fixed when I'll have some spare time.
+### Important note: fixed a few security vulnerabilities, the features might not all work due to breaking changes and need to be fixed.
 
 ### Arduino security app
 
-This is a personal project. The arduino acts like a server with some motion sensors, it communicates with the node server and provides security for houses. 
+The arduino acts like a server with some motion sensors, it communicates with the node server and provides security for houses. 
 
 It can also send an SMS to the user when the alarm is triggered, it keeps track of the history, it also registers the temperature.
 
