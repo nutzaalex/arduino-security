@@ -60,7 +60,7 @@ let lineChartData = {
 
 class Temperature extends Component {
   static PropTypes = {
-    currentTemperature: PropTypes.Object,
+    currentTemperature: PropTypes.object,
     isDisabled: PropTypes.bool,
     temperature: PropTypes.array
   };
